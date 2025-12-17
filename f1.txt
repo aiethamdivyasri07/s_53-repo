@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "this is filee" 
+=======
+"content for f1" 
+>>>>>>> b2
